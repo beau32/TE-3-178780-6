@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"P37,P36,P34,P35,P33,P32,P37,P34,P35,P36,P32,P33";"SIL-8";12;"CONN_8";;;
+2;"P13,P1,P2,P14";"SIL-3";4;"CONN_3";;;
+3;"P23,P17,P18,P16,P15,P22,P21,P10,P24,P12,P11,P9,P5,P6,P4,P3,P21,P9,P23,P11";"SIL-1";20;"CONN_1";;;
+4;"1PIN,1PIN";"1pin";2;"P***";;;
+5;"P25";"174915-6";1;"174915-6";;;
+6;"P37,P36,P37,P36";"SIL-6";4;"CONN_6";;;

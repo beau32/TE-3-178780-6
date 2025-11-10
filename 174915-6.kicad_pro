@@ -138,7 +138,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.508,
         "min_track_width": 0.2032,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.0254,
         "min_via_diameter": 0.889,
         "solder_mask_to_copper_clearance": 0.0,
         "use_height_for_length_calcs": true
@@ -837,7 +837,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "176122-6-mfg/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
