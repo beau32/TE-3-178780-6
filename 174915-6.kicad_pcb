@@ -4807,17 +4807,11 @@
 			(uuid "d07c0a12-53d5-4dfb-9a51-1e3572466ba8")
 		)
 		(embedded_fonts no)
-		(model "modules\\c-0176122-06-f-3d_MM.wrl"
-			(offset
-				(xyz 0 -0.01 -0.15)
-			)
-			(scale
-				(xyz 0.393 0.393 0.393)
-			)
-			(rotate
-				(xyz 270 0 180)
-			)
-		)
+		(model "${KIPRJMOD}/3dmodels/178780-1_reference.step"
+            (offset (xyz -69.20027 0 0))
+            (scale (xyz 1 1 1))
+            (rotate (xyz 0 0 0))
+        )
 	)
 	(footprint "SIL-8"
 		(layer "F.Cu")
